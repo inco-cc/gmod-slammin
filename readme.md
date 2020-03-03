@@ -13,7 +13,7 @@ First you'll need to make sure you have everything downloaded:
 
 ### b) Optional
 
-These are only needed if you plan on following the rest of the guide beyond Section III.
+These are only needed if you plan on following Section IV.
 
 + [CompilePal](https://github.com/ruarai/CompilePal/releases)
 + [CompilePal Slammin' Build Parameters](https://drive.google.com/file/d/1RKbnrKgNrEjScoxFHKVnM_c2VKCMj694/view)
